@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "carreiras.com.github.helloactivity"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "carreiras.com.github.helloactivity"
